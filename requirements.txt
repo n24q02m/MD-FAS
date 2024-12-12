@@ -63,3 +63,5 @@ urllib3
 werkzeug
 wrapt
 zipp
+natsort
+tensorboardX
